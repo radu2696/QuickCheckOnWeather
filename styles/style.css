@@ -1,0 +1,14 @@
+.nav-bar {
+	font-size: 30px;
+}
+
+
+body{
+    background: #ffffff url("rainy.jpg") no-repeat;
+    background-size: cover;
+}
+
+table{
+	background-color: white;
+}
+
